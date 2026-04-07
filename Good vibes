@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Good Vibes Pondicherry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .price {
+            font-size: 20px;
+            color: green;
+            font-weight: bold;
+        }
+        .contact {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #2c3e50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Good Vibes Pondicherry</h1>
+    <p>Peaceful & Family-Friendly Stay in City Centre</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>📍 Location</h2>
+        <p>No.16, Nila Street, Vasanth Nagar, Muthialpet, Pondicherry - 605003</p>
+        <p>10 minutes travel from Rock Beach</p>
+    </div>
+
+    <div class="card">
+        <h2>🏠 Property Details</h2>
+        <p>1BHK | Maximum 4–6 Members</p>
+        <p>City Centre | Peaceful & Family Friendly</p>
+    </div>
+
+    <div class="card">
+        <h2>✨ Amenities</h2>
+        <ul>
+            <li>Free Parking</li>
+            <li>Air Conditioning (AC)</li>
+            <li>Cable TV</li>
+            <li>Water Heater</li>
+            <li>Ceiling Fan</li>
+            <li>2 Bathrooms</li>
+            <li>2 Beds</li>
+            <li>Kitchen</li>
+            <li>Electric Kettle</li>
+            <li>Mirror</li>
+            <li>Table & Chair</li>
+            <li>Wine Glasses</li>
+            <li>Windows with Ventilation</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>💰 Pricing</h2>
+        <p class="price">₹3,500 per night</p>
+        <p class="price">₹16,500 per month</p>
+    </div>
+
+    <div class="card contact">
+        <h2>📞 Contact Details</h2>
+        <p><strong>Host:</strong> Boobalan</p>
+        <p><strong>Phone:</strong> 9442033655</p>
+        <p><strong>Email:</strong> b77988033@gmail.com</p>
+    </div>
+
+</div>
+
+<footer>
+    <p>© 2026 Good Vibes Pondicherry</p>
+</footer>
+
+</body>
+</html>
